@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA196IDBVR
+D 36V, Low Power, All-Purpose Amplifier with MUX-Friendly Input
+K
+F http://www.ti.com/lit/gpn/opa196
+$ENDCMP
+#
+#End Doc Library

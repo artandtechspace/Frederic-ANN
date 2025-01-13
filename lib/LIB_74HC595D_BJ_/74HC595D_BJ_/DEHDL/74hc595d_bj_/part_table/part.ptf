@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74HC595D_BJ_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "74HC595D(BJ)" (!) = "", "SOIC127P600X175-16N", "Small Outline Packages", "757-74HC595DBJ", "https://www.mouser.co.uk/ProductDetail/Toshiba/74HC595DBJ?qs=T%2FywbITssnTkqd02WdSNRg%3D%3D", "Logic Gates CMOS 8-Bit Shift Register/Latch", "https://componentsearchengine.com/Datasheets/1/74HC595D(BJ).pdf", "1.75 mm"
+END_PART
+
+END.

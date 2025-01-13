@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP41HV51-503E/ST
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=2.1
+Released=2019-01-03 09:42:08
+Downloaded=2024-10-12 14:44:39
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP41HV51_503E_ST'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP41HV51-503E/ST" (!) = "", "SOP65P640X120-14N", "Small Outline Packages", "579-MCP41HV51-503EST", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP41HV51-503E-ST?qs=zOnbk8%2FsRx4ZUpOx9fi55g%3D%3D", "MCP41HV51-503E/ST, Digital Potentiometer 50k 256-Position Serial-SPI 14-Pin TSSOP", "http://ww1.microchip.com/downloads/en/devicedoc/20005207b.pdf", "1.2 mm"
+END_PART
+
+END.

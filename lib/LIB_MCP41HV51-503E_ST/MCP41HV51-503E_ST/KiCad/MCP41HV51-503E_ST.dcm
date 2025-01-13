@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP41HV51-503E_ST
+D MCP41HV51-503E/ST, Digital Potentiometer 50k 256-Position Serial-SPI 14-Pin TSSOP
+K
+F http://ww1.microchip.com/downloads/en/devicedoc/20005207b.pdf
+$ENDCMP
+#
+#End Doc Library

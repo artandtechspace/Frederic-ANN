@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MCP41HV51-503E_ST"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-02:40:16)
+    (mountForm default
+        (footprintRef "SOP65P640X120-14N")
+        (spec "System")
+    )
+)
